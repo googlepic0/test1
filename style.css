@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main_page{
+    /* background-color: rgb(160, 112, 112); */
+    background-color:rgba(5, 82, 8, 0.356);
+    height: 50px;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+    /* background-color:rgba(5, 82, 8, 0.356); */
+}
+.container h1{
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+    text-align: center;
+    line-height: 50px;
+}
+.mrg_tk{
+    margin-top: 100px;
+}
+h4{
+    color: yellow;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.date{
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+}
+.date p{
+    text-align: center;
+}
+.all_pic{
+    width: 1000px;
+    /* height: 100vh; */
+    /* background-color: rgba(235, 133, 0, 0.287); */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: auto;
+    justify-items: center;
+    align-items: center;
+
+    /* display: flex;
+    flex-direction: none; */
+    /* padding: 10px; */
+    /* margin: 5px; */
+
+}
+.all_pic .cmn_cls{
+     background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    width: 200px;
+    height: 300px;
+    margin: 2px;
+}
+.all_pic .pic_001{
+    background-image: url(images/img_1/001.jpg);
+   
+}
+.all_pic .pic_002{
+    background-image: url(images/img_1/002.jpg);
+}
+.all_pic .pic_003{
+    background-image: url(images/img_1/003.jpg);
+}
+.all_pic .pic_004{
+    background-image: url(images/img_1/004.jpg);
+}
+.all_pic .pic_005{
+    background-image: url(images/img_1/005.jpg);
+}
+.all_pic .pic_006{
+    background-image: url(images/img_1/006.jpg);
+}
+.all_pic .pic_007{
+    background-image: url(images/img_1/007.jpg);
+}
+.all_pic .pic_008{
+    background-image: url(images/img_1/008.jpg);
+}
+.all_pic .pic_009{
+    background-image: url(images/img_1/009.jpg);
+}
+.all_pic .pic_010{
+    background-image: url(images/img_1/010.jpg);
+}
+.all_pic .pic_011{
+    background-image: url(images/img_1/011.jpg);
+}
+.all_pic .pic_0012{
+    background-image: url(images/img_1/012.jpg);
+}
